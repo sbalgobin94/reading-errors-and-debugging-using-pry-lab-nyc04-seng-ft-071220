@@ -7,5 +7,4 @@ def snake_it_up(string)
     new_string = string
     "s" + string
   end
-  new_string
 end
